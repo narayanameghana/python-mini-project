@@ -1,4 +1,5 @@
-import numpy as np
+changes bug fixing
+
 from netCDF4 import Dataset
 # download required datset from net
 
